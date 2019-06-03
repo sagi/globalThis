@@ -1,5 +1,5 @@
 {
-  "name": "@sagi.io/globalThis",
+  "name": "@sagi.io/globalthis",
   "version": "0.0.1",
   "description": "A globalThis polyfill.",
   "author": "Sagi Kedmi <git@sagi.io> (https://sagi.io)",
