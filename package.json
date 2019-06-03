@@ -1,0 +1,24 @@
+{
+  "name": "@sagi.io/globalThis",
+  "version": "0.0.1",
+  "description": "A globalThis polyfill.",
+  "author": "Sagi Kedmi <git@sagi.io> (https://sagi.io)",
+  "homepage": "https://sagi.io",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sagi/globalThis.git"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.3",
+    "jest": "^24.8.0",
+    "jest-junit": "^6.4.0",
+    "prettier": "^1.17.1"
+  }
+}
