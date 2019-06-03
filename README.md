@@ -24,4 +24,4 @@ CJS:
 require('@sagi.io/globalthis')
 ~~~
 
-You can now access `globalthis`.
+You can now access `globalThis`.
