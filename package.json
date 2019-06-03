@@ -20,5 +20,6 @@
     "jest": "^24.8.0",
     "jest-junit": "^6.4.0",
     "prettier": "^1.17.1"
-  }
+  },
+  "keywords": ["globalThis", "cloudflare", "workers", "cloudflare workers"]
 }
